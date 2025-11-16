@@ -8,6 +8,6 @@ De forma secundaria, cuento con experiencia previa como diseñador gráfico, por
 
 💻 Tech & Tools
 Desarrollo
-<p> <img src="https://skillicons.dev/icons?i=html,css,java,mysql,figma" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,java,figma" /> </p>
 Diseño (mención secundaria)
 <p> <img src="https://skillicons.dev/icons?i=ps,ae" /> </p>
