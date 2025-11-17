@@ -1,4 +1,4 @@
-## About me
+## ✌️ About me
 
 ¡Hola! Soy Izan, estudiante del Grado Superior en Desarrollo de Aplicaciones Web.
 Llegué a este camino tras un paso fallido —pero enriquecedor— por Ingeniería en Telecomunicaciones, donde entendí que lo que realmente me motiva es crear soluciones y dar vida a proyectos web.
