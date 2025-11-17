@@ -11,8 +11,6 @@ Desarrollo Web
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=figma" /> </p>
 Diseño (mención secundaria)
 <p align="left"> <img src="https://skillicons.dev/icons?i=ps" /> <img src="https://skillicons.dev/icons?i=ae" /> </p>
-📬 Contacta conmigo
-<p align="left"> <a href="https://www.linkedin.com/in/izandegeer/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
-Email:
-📧 izandegeer.ua@gmail.com
+## 📬 Contacta conmigo
+<p align="left"> <a href="https://www.linkedin.com/in/izandegeer/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:izandegeer.ua@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
